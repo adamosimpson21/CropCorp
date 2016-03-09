@@ -5,8 +5,6 @@ Crop Corp is a project I've been working on in which I am trying to learn basic 
 Features I have added since acquiring the source files:
 
 
-Learned to work with and use a Framework
-
 Added title page scene and button
 
 Added intro page scene and button
