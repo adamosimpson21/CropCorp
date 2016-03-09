@@ -16,3 +16,4 @@ Coordinated with professional artists to describe, define, and develop ongoing v
 Added Achievement scene 
 Developed a variety of achievements to accomodate for all styles of play 
 Restructured code with Object-Oriented Programming
+ 
