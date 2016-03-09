@@ -28,7 +28,22 @@ Added Achievement scene
 Developed a variety of achievements to accomodate for all styles of play 
 
 Restructured code with Object-Oriented Programming
- 
+
+
+Things I've Learned:
+
+Working with a Framework
+
+Working with multiple files, including html, js, css, and jpeg
+
+Object-Oriented Programming
+
+Directors, scenes, and layers
+
+Code Structure
+
+If/else loop structure, syntax, and use
+
 
 Current Problems being worked on:
 
