@@ -3,8 +3,8 @@
 Crop Corp is a project I've been working on in which I am trying to learn basic functions in the HTML5 between html, javascript, and css. The origins of Crop Corp come from the course Intro to Game Development in HTML5 by Pablo Farrias Navarro. Originally, the game was very bare bones and did not have many features, but I decided to grow it into something awesome, while developing my programming skills. 
 
 Features I have added since acquiring the source files:
-Learned to work with and use a Framework
-Added title page scene and button
+/n Learned to work with and use a Framework
+/n Added title page scene and button
 Added intro page scene and button
 Written Intro and game rules
 Conceptualized and Implemented new cast of plants, each with specific tropes in mind
