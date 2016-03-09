@@ -31,3 +31,26 @@ Developed a variety of achievements to accomodate for all styles of play
 
 Restructured code with Object-Oriented Programming
  
+
+Current Problems being worked on:
+
+Unable to export code because of complications with the Framework (lime js)
+
+
+Plans for the future:
+
+Give plants individual attributes, i.e. singularity, multi-plot
+
+Power-up shop
+
+More Plant Variety, randomized shop
+
+Win condition (and losing condition)
+
+Building + compiling with the framework
+
+Sound, music, and volume controls
+
+Options menu, i.e. display FPS, adjust starting $$, banana mode
+
+Pausing
